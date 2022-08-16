@@ -2,10 +2,10 @@ import React, {useState} from "react";
 import { FaDiscord } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
-import club_logo from "../images/club_logo.png";
+import club_logo from "./images/club_logo.png";
 
 
-import "./Footer.module.css";
+// import "./Footer.module.css";
 
 const ErrorMessage = ()=>{
   return (
