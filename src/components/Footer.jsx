@@ -74,7 +74,7 @@ const Footer = () => {
             rel="noreferrer noopener"
           >
             <div className="flex justify-between items-start m-4 ">
-              <div className="w-10 h-10 rounded-full border-2 border-white hover:bg-[#43609f] hover:animate-pulse flex justify-center items-center">
+              <div className="w-10 h-10 rounded-full border-2 border-white hover:bg-[#43609f] hover:animate-bounce flex justify-center items-center">
                 <FaLinkedin fontSize={17} color="white" />
               </div>
             </div>
@@ -87,7 +87,7 @@ const Footer = () => {
             rel="noreferrer"
           >
             <div className="flex justify-between items-start m-4  ">
-              <div className="w-10 h-10 rounded-full border-2 hover:bg-[#d83daa] hover:animate-pulse border-white flex justify-center items-center">
+              <div className="w-10 h-10 rounded-full border-2 hover:bg-[#d83daa] hover:animate-bounce border-white flex justify-center items-center">
                 <FaInstagram fontSize={17} color="white" />
               </div>
             </div>
@@ -99,7 +99,7 @@ const Footer = () => {
             rel="noreferrer"
           >
             <div className="flex justify-between items-start m-4 ">
-              <div className="w-10 h-10 rounded-full border-2 border-white flex justify-center items-center hover:motion-safe:animate-pulse hover:bg-[#820ca6]">
+              <div className="w-10 h-10 rounded-full border-2 border-white flex justify-center items-center hover:motion-safe:animate-bounce hover:bg-[#820ca6]">
                 <FaDiscord fontSize={17} color="white" />
               </div>
             </div>
@@ -108,37 +108,37 @@ const Footer = () => {
       </div>{" "}
       <div className="flex flex-1 justify-evenly items-center flex-wrap sm:mt-0 mt-5 sm:w-[70%]">
         <p className="text-white text-center text-md text-base mx-2 cursor-pointer">
-          <a className="footer_link" href="/">
+          <a className="hover:text-[#da9e9e]" href="/">
             {" "}
             Home{" "}
           </a>
         </p>
         <p className="text-white text-center text-md text-base mx-2 cursor-pointer">
-          <a className="footer_link" href="/activity">
+          <a className="hover:text-[#da9e9e]" href="/activity">
             {" "}
             Activity{" "}
           </a>
         </p>
         <p className="text-white text-center text-md text-base mx-2 cursor-pointer">
-          <a className="footer_link hover:text-[#da9e9e]" href="/achievements">
+          <a className=" hover:text-[#da9e9e]" href="/achievements">
             {" "}
             Achievements{" "}
           </a>
         </p>
         <p className="text-white text-center text-md text-base mx-2 cursor-pointer">
-          <a className="footer_link" href="/team">
+          <a className="hover:text-[#da9e9e]" href="/team">
             {" "}
             Team{" "}
           </a>
         </p>
         <p className="text-white text-center text-md text-base mx-2 cursor-pointer">
-          <a className="footer_link" href="/blog">
+          <a className="hover:text-[#da9e9e]" href="/blog">
             {" "}
             Blog{" "}
           </a>
         </p>
         <p className="text-white text-center text-md text-base mx-2 cursor-pointer">
-          <a className="footer_link" href="/about">
+          <a className="hover:text-[#da9e9e]" href="/about">
             {" "}
             About{" "}
           </a>
