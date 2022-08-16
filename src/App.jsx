@@ -1,6 +1,6 @@
 import "./App.css";
-import { Blog } from "./components";
-import Footer from "./components/Footer";
+import { Blog, Footer } from "./components";
+
 
 function App() {
   return (
