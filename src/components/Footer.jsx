@@ -2,7 +2,7 @@ import React, {useState} from "react";
 import { FaDiscord } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
-import club_logo from "./images/club_logo.png";
+import club_logo from "../Assets/isaLogo.svg";
 
 
 // import "./Footer.module.css";
@@ -31,7 +31,7 @@ const Footer = () => {
     <div className="flex flex-col md:justify-center justify-between items-center bg-[#12141D] gradient-bg-footer p-4 w-full">
       <div className="sm:w-[90%] flex flex-col sm:flex-row my-4 justify-between items-center m-10">
         <div className="flex justify-center items-center">
-          <img src={club_logo} alt="club_logo" className="w-45" />
+          <img src={club_logo} alt="club_logo" className="" />
         </div>
         <div className="flex flex-col items-center justify-start w-full">
           <div className="flex justify-end items-center flex-col w-full">
