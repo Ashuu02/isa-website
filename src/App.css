@@ -4,4 +4,5 @@
 }
 html,body{
   background-color: #12141D;
+  overflow-x: hidden;
 }
