@@ -1,6 +1,5 @@
 import "./App.css";
-import { Blog, Footer, FooterSlider, UpcomingEvents } from "./components";
-import Achievements from './components/Achievements'
+import { Blog, Footer, FooterSlider, UpcomingEvents, Achievements } from "./components";
 
 function App() {
   return (
