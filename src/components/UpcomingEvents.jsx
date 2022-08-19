@@ -23,7 +23,7 @@ const UpcomingEvents = () => {
               </p>
             </div>
             {/* Image */}
-            <div className="bg-hero h-[274px] w-[324px] m-10 rounded-[2rem]"></div>
+            <div className="bg-hero h-[274px] md:w-[324px] w-[90%] bg-no-repeat self-center m-10 rounded-[2rem]"></div>
         </div>
       </div>
     </>

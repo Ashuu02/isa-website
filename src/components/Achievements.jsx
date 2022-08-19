@@ -10,7 +10,9 @@ const Achievements = () => {
             <div className="flex md:flex-row flex-col justify-between items-center lg:items-stretch relative w-[90%] max-w-[1185px] rounded-[2rem] mt-[40px] ">
                {/* Column 1 */}
                 <div className="text-white mt-[0] w-full md:w-auto">
-                <h1 className="h-[75px] md:w-[526px] w-[100px] text-white md:text-[56px] text-[40px] font-extrabold m-10 mb-[150px] md:mb-[180px] text-left md:text-left">Achievements</h1>
+                <h1 className="h-[75px] md:w-[526px] w-[75px] text-white md:text-[56px] text-3xl font-extrabold m-10 mb-[150px] md:mb-[180px] text-center md:text-left">
+                    Achievements
+                </h1>
                     <div className=" md:w-[494px] h-[330px] w-full flex flex-col my-auto left-0 items-center bg-[#1E2028] rounded-[2rem] md:m-10">
                         <img src="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" className="h-[185px] w-[183px] rounded-full relative top-[-20%]"></img>
                         <h1 className="w-[297px] h-[28px] text-center font-extrabold text-[28px] relative top-[-15%]">
