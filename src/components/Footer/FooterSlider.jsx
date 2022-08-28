@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer1.css'
-const Footer = () => {
+const FooterSlider = () => {
   return (
     <div class="slider">
       <div class="slide-track">
@@ -67,4 +67,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default FooterSlider

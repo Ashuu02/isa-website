@@ -1,6 +1,6 @@
 import React from 'react'
 import './blog.css'
-const blog = () => {
+const Blog = () => {
   return (
     <>
     <div className="text-white font-semibold lg:text-[3rem] text-3xl mr-16 ml-16 pt-16 pb-16">News and Insight</div>
@@ -43,4 +43,4 @@ const blog = () => {
     )
 }
 
-export default blog
+export default Blog
