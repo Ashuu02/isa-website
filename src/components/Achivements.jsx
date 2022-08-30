@@ -1,5 +1,5 @@
 import React from "react";
-import pic from "./pic.png";
+import pic from "../Assets/pic.png";
 import { FaLinkedinIn } from "react-icons/fa";
 
 const Achievements = () => {
