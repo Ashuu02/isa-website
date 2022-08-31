@@ -22,7 +22,7 @@ const Achievements = () => {
                 images into its cartoon. Yes, the objective of this machine
                 learning project is to CARTOONIFY the images.
               </p>
-            </div>
+            </div> 
             {/* Column 1 */}
             <div className="text-white mt-[0] w-full md:w-auto">
               <div className="p-6 shadow-xl bg-[#1E2028] rounded-xl hover:scale-105 ease-in duration-300">
