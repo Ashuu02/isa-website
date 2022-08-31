@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Revalia');
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
+
+.box {
+    font-family: 'Revalia';
+    position: relative;
+    height: 467px;
+    background: linear-gradient(180deg, #1E2028 0%, rgba(30, 32, 40, 0.32) 100%);
+    box-shadow: 8px 8px 4px rgba(217, 217, 217, 0.32);
+    border-radius: 40px;
+}
+
+.heading {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 50px;
+}
+
+.Btn {
+    height: 42px;
+    color: white;
+    text-align: center;
+    margin: 30px;
+    background: linear-gradient(180deg, #C81112 0%, rgba(163, 81, 82, 0.4) 100%);
+    border-radius: 8px;
+}
+
+.ttl {
+    height: 18px;
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.smtxt {
+    height: 14px;
+
+    font-family: 'Revalia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 14px;
+}
+
+.regT {
+    height: 46px;
+    position: relative;
+    color: white;
+    font-family: 'Revalia';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 46px;
+    color: #FFFFFF;
+}
